@@ -80,7 +80,7 @@ function SearchList({ searchDataState, searchDataDispatch }) {
       <Grid templateColumns="1fr 2fr 2fr 1fr" gap={1} mt={3}>
         <Button size="xs" colorScheme="teal" onClick={() => backward('all')}>ย้อนกลับ</Button>
         <Flex align="center" justify="center">
-          <Text fontSize="xs" opacity={0.8} mr={1}>หน้าปัจจุบัน: </Text>
+          <Text fontSize="xs" opacity={0.8} mr={1}>ปัจจุบัน: </Text>
           <Input 
             w='10'
             size="xs"
@@ -91,8 +91,8 @@ function SearchList({ searchDataState, searchDataDispatch }) {
             onChange={(event) => handleCurrentPageInput( event,'all') }
           />
         </Flex>
-        <Flex align="center" justify="end">
-          <Text fontSize="xs" opacity={0.8}>หน้าทั้งหมด:</Text>
+        <Flex align="center" justify="center">
+          <Text fontSize="xs" opacity={0.8}>ทั้งหมด:</Text>
           <Button 
             onClick={() => handleToLastPage('all')}
             size="xs"
