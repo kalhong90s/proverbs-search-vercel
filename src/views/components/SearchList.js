@@ -78,7 +78,7 @@ function SearchList({ searchDataState, searchDataDispatch }) {
         }
       </List>
       <Grid templateColumns="1fr 2fr 2fr 1fr" gap={1} mt={3}>
-        <Button size="xs" colorScheme="teal" onClick={() => backward('all')}>ย้อนกลับ</Button>
+        <Button size="xs" colorScheme="teal" onClick={() => backward('all')}>ก่อนหน้า</Button>
         <Flex align="center" justify="center">
           <Text fontSize="xs" opacity={0.8} mr={1}>ปัจจุบัน: </Text>
           <Input 
@@ -99,7 +99,7 @@ function SearchList({ searchDataState, searchDataDispatch }) {
             w='10'
           >{searchDataState.pagination.maxPage}</Button>
         </Flex>
-        <Button size="xs" colorScheme="teal" onClick={() => forward('all')}>หน้าถัดไป</Button>
+        <Button size="xs" colorScheme="teal" onClick={() => forward('all')}>ถัดไป</Button>
       </Grid>
     </Grid>
     </TabPanel>
@@ -139,7 +139,7 @@ function SearchList({ searchDataState, searchDataDispatch }) {
         }
       </List>
       <Grid templateColumns="1fr 2fr 2fr 1fr" gap={1} mt={3}>
-        <Button size="xs" colorScheme="teal" onClick={() => backward('tree')}>ย้อนกลับ</Button>
+        <Button size="xs" colorScheme="teal" onClick={() => backward('tree')}>ก่อนหน้า</Button>
         <Flex align="center" justify="center">
           <Text fontSize="xs" opacity={0.8} mr={1}>ปัจจุบัน: </Text>
           <Input 
@@ -160,7 +160,7 @@ function SearchList({ searchDataState, searchDataDispatch }) {
             w='10'
           >{searchDataState.paginationTree.maxPage}</Button>
         </Flex>
-        <Button size="xs" colorScheme="teal" onClick={() => forward('tree')}>หน้าถัดไป</Button>
+        <Button size="xs" colorScheme="teal" onClick={() => forward('tree')}>ถัดไป</Button>
       </Grid>
     </Grid>
     </TabPanel>
@@ -201,7 +201,7 @@ function SearchList({ searchDataState, searchDataDispatch }) {
         }
       </List>
       <Grid templateColumns="1fr 2fr 2fr 1fr" gap={1} mt={3}>
-        <Button size="xs" colorScheme="teal" onClick={() => backward('to')}>ย้อนกลับ</Button>
+        <Button size="xs" colorScheme="teal" onClick={() => backward('to')}>ก่อนหน้า</Button>
         <Flex align="center" justify="center">
           <Text fontSize="xs" opacity={0.8} mr={1}>ปัจจุบัน: </Text>
           <Input 
@@ -222,7 +222,7 @@ function SearchList({ searchDataState, searchDataDispatch }) {
             w='10'
           >{searchDataState.paginationTo.maxPage}</Button>
         </Flex>
-        <Button size="xs" colorScheme="teal" onClick={() => forward('to')}>หน้าถัดไป</Button>
+        <Button size="xs" colorScheme="teal" onClick={() => forward('to')}>ถัดไป</Button>
       </Grid>
     </Grid>
     </TabPanel>
