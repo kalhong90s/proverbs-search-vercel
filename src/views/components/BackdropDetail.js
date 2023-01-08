@@ -36,16 +36,7 @@ function BackdropDetail({ object }) {
             <ModalCloseButton />
             <ModalBody>
               <Text>{object.meaning}</Text>
-              <Grid templateColumns="1fr 1fr"  mt={2} gap={1}  >
-                  <Flex align='baseline' >
-                    <Text  opacity={0.8}>ที่มา: </Text>
-                    <Text  opacity={0.8}>{object.reference}</Text>
-                  </Flex>
-                  <Flex align='baseline'>
-                    <Text  opacity={0.8}>วรรค: </Text>
-                    <Text  opacity={0.8}>{object.classification}</Text>
-                  </Flex>
-                </Grid>
+              <Text  opacity={0.8}>ที่มา: {object.reference} </Text>
               <Text mt={2} >{object.details}</Text>
             </ModalBody>
             <ModalFooter>
