@@ -1,4 +1,4 @@
-import { ModalOverlay, Button ,Modal,ModalContent,ModalCloseButton,ModalBody,ModalFooter,Text,useDisclosure,Link,Grid,Flex} from '@chakra-ui/react';
+import { ModalOverlay, Button ,Modal,ModalContent,ModalBody,ModalFooter,Text,useDisclosure,Link,Grid} from '@chakra-ui/react';
 import { useState} from 'react';
 
 
@@ -33,7 +33,6 @@ function BackdropDetail({ object }) {
                 })
                 }
               </Grid>              
-            <ModalCloseButton />
             <ModalBody>
               <Text>{object.meaning}</Text>
               <Text  opacity={0.8}>ที่มา: {object.reference} </Text>
