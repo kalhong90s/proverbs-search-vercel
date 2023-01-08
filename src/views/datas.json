@@ -1,19 +1,174 @@
 {"proverbs":[{"id":1,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"ตนแล เป็นที่พึ่งของตน","classification":"อัตตวรรค","reference":"ที.ปา.","details":"rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate","level":"โท"},
-{"id":2,"proverb":["อตฺตา หเว ชิตํ เสยฺโย"],"meaning":"ชนะตนนั้นแหละ เป็นดี","classification":"อัตตวรรค","reference":"ขุ.ขุ.","details":"pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus","level":"โท"},
-{"id":3,"proverb":["อตฺตนา ว กตํ ปาปํ อตฺตนา สงฺกิลิสฺสนฺติ"],"meaning":"คนทำบาปเอง ย่อมเศร้าหมองเอง","classification":"อัตตวรรค","reference":"ขุ.ขุ.","details":"id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet","level":"เอก"},
-{"id":4,"proverb":["อตฺตนา อกตํ ปาปํ อตฺตนา ว วิสุชฺฌติ"],"meaning":"คนไม่ทำบาปเอง ย่อมหมดจดเอง","classification":"เวรวรรค","reference":"ขุ.ชา.","details":"vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi","level":"ตรี"},
-{"id":5,"proverb":["อตฺตา หิ อตฺตโน นาโถ "," โก หิ นาโถ ปโร สิยา","อตฺตนา หิ สุทนฺเตน","นาถํ ลภติ ทุลฺลภํ."],"meaning":"ตนแล เป็นที่พึ่งของตน คนอื่น ใครเล่าจะเป็นที่พึ่งได้ ก็บุคคล  มีตนฝึกฝนดีแล้ว ย่อมได้ที่พึ่งที่ได้ยาก.","classification":"ปัญญาวรรค","reference":"สํ.นิ.","details":"vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia","level":"ตรี"},
-{"id":6,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"magnis dis parturient montes nascetur ridiculus mus vivamus","classification":"ขันติวรรค","reference":"ขุ.ชา.","details":"condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien","level":"ตรี"},
-{"id":7,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"elit ac nulla sed vel enim sit amet","classification":"โกธวรรค","reference":"ขุ.อุ.","details":"aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin","level":"เอก"},
-{"id":8,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"nulla dapibus dolor vel est donec","classification":"เสวนาวรรค","reference":"ม.อุ.","details":"donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit","level":"เอก"},
-{"id":9,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"in felis donec semper sapien a","classification":"มิตตวรรค","reference":"ขุ.สุ.","details":"augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et","level":"เอก"},
-{"id":10,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"in hac habitasse platea dictumst","classification":"ทานวรรค","reference":"ขุ.ขุ.","details":"fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse","level":"โท"},
-{"id":11,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"ante ipsum primis in","classification":"สามัคคีวรรค","reference":"ขุ.อุ.","details":"volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin","level":"เอก"},
-{"id":12,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"consequat lectus in est risus","classification":"มิตตวรรค","reference":"ม.ม.","details":"blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie","level":"โท"},
-{"id":13,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"id nulla ultrices aliquet maecenas","classification":"มิตตวรรค","reference":"ที.สี.","details":"sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna","level":"โท"},
-{"id":14,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"sit amet lobortis sapien sapien non mi integer","classification":"ทุกขวรรค","reference":"ขุ.เถร.","details":"nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc","level":"เอก"},
-{"id":15,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"mus vivamus vestibulum sagittis sapien cum sociis","classification":"ราชวรรค","reference":"สํ.นิ.","details":"ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus curabitur at","level":"เอก"},
-{"id":16,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"aliquam lacus morbi quis tortor","classification":"เสวนาวรรค","reference":"ที.ปา.","details":"cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia","level":"ตรี"},
+{
+    "id": 1,
+    "proverb": [
+        "อตฺตา หเว ชิวํ เสยฺโย."
+    ],
+    "meaning": "ชนะตนนั่นแหละเป็นดี",
+    "classification": "อัตตวรรค",
+    "reference": "ขุททกนิกาย ธรรมบท",
+    "details": "ในโลกนี้ไม่มีใครต้องการที่จะเป็นผู้แพ้ ทุกคนต่างก็มุ่งหวังที่จะเป็น ผู้ชนะร่ำไป เช่น ต้องการชนะเหล่าอมิตรศัตรู ต้องการเล่นชนะพนัน เป็นต้น แต่ว่าการชนะเหล่านี้ยังถือว่าเป็นการชนะไม่เด็ดขาด เพราะยังต้องกลับแพ้ ได้อีก แต่สำหรับผู้สามารถชนะตนเองได้ คือ สามารถตัดความโลภ ความโกรธ ความหลงของตนเสียได้ จนเข้าถึงสันติสุขคือพระนิพพาน จึงจะได้ชื่อว่าเป็น ผู้ชนะที่แท้จริง ไม่ต้องกลับมาแพ้อีก",
+    "level": "ตรี"
+},
+{
+"id": 2,
+"proverb": [
+   "อตฺตา หิ กิร ทุทฺทโม."
+],
+"meaning": "ได้ยินว่าตนแลฝึกได้ยาก",
+"classification": "อัตตวรรค",
+"reference": "ขุททกนิกาย ธรรมบท",
+"details": "การฝึกหัดตนให้อยู่ในอำนาจ คือให้ดำรงมั่นในวิถีทางที่ดี ที่ถูกต้อง และฝึกให้ยิ่งขึ้นไป จนสามารถละกิเลสได้นั้นเป็นสิ่งที่ยากยิ่ง เพราะว่าตน ตัวเรามันวอกแวกไปตามอารมณ์ที่รับทราบและยินดีในอารมณ์ฝ่ายต่ำช้า ได้ง่าย ทำให้จิตใจเศร้าหมอง ก่อความทุกข์ให้เกิดขึ้น เพราะฉะนั้น การที่จะ ฝึกหัดให้ตนเองชนะอารมณ์เหล่านี้ให้มาดำรงอยู่ในทางที่ดีทางเดียว จึงกระทำได้ยากยิ่ง",
+"level": "ตรี"
+},
+{
+    "id": 3,
+    "proverb": [
+       "อตฺตา สุทนฺโต ปุริสสฺส โชติ."
+    ],
+    "meaning": "ตนที่ฝึกดีแล้ว ย่อมเป็นแสงสว่างของบุรุษ",
+    "classification": "อัตตวรรค",
+    "reference": "สังยุตตนิกาย  สคาถวรรค",
+    "details": "การฝึกตนนั้น หมายถึง ทำให้เรียบ ทำให้ละพยศ ทำให้ตรง เมื่อฝึกไป โดยสม่ำเสมอก็สามารถจะดัดตนไม่ให้หลงมัวเมาในทางที่คดคือกิเลสตัณหาและไม่ให้กิเลสตัณหาครอบงำได้ บุคคลผู้ฝึกตนได้อย่างนี้แล้วย่อมรุ่งเรือง มีปัญญาเป็นแสงสว่างกําจัดความมืดคืออวิชชา และรู้จักทางที่จะประพฤติปฏิบัติ ในทางที่ดีต่อไป ไม่ให้ตกไปในหลุมพรางคือกิเลสและตัณหาอีก",
+    "level": "ตรี"
+},
+{
+    "id": 4,
+    "proverb": [
+       "อตฺตา หิ อตฺตโน นาโถ."
+    ],
+    "meaning": "ตนแล เป็นที่พึ่งของตน",
+    "classification": "อัตตวรรค",
+    "reference": "ขุททกนิกาย ธรรมบท",
+    "details": "ตนในที่นี้ หมายถึง กุศลกรรมที่เราได้ประพฤติปฏิบัติมา กุศลกรรม หรือความดีเท่านั้น จึงจะเป็นที่พึ่งของเราได้ เช่น บุคคลผู้ตั้งในศีลธรรม หมั่นประกอบความดี มีชื่อเสียงเกียรติยศปรากฏเป็นที่เคารพนับถือของคน ทั่วไป และเมื่อเวลาตายไปแล้วย่อมไปสู่สุคติ เป็นต้น ด้วยเหตุนี้ ทุกๆ คนไม่ว่า ใครๆ ต่างก็มีตน คือคุณงามความดีเป็นที่พึ่งของตนทั้งนั้น จะพึ่งใครไม่ได้เพราะ ใครทำกรรมใดไว้ คนนั้นก็ย่อมได้รับผลของกรรมนั้น",
+    "level": "ตรี"
+},
+{
+    "id": 5,
+    "proverb": [
+       "อตฺตา หิ อตฺตโน คติ."
+    ],
+    "meaning": "ตนเทียว เป็นคติของตน",
+    "classification": "อัตตวรรค",
+    "reference": "ขุททกนิกาย ธรรมบท",
+    "details": "คติ หมายถึง ทางเป็นที่ไป มีอยู่ ๒ ทาง คือ สุคติ ทางดี และทุคติ ทางชั่ว บุคคลจะไปสู่ทางดีหรือทางชั่วก็ขึ้นอยู่กับกรรม คือการกระทำของตน ถ้าตนทำดีก็จะไปสู่ทางที่ดี ถ้าทำชั่วก็ไปสู่ทางที่ไม่ดี สัตว์โลกล้วนไปตามกรรม ของแต่ละคน กรรมเป็นเครื่องจําแนกสัตว์ให้ดี เลวและประณีต เพราะฉะนั้น เราจงทำตัวของเราให้ตั้งอยู่ในคุณความดี เพราะว่าตนเท่านั้นเป็นคติของตน",
+    "level": "ตรี"
+},
+{
+    "id": 6,
+    "proverb": [
+       "อตฺตา หิ ปรม ปิโย."
+    ],
+    "meaning": "ตนแล เป็นที่รักอย่างยิ่ง",
+    "classification": "อัตตวรรค",
+    "reference": "อังคุตตรนิกาย สัตตกนิบาต",
+    "details": "ตนในที่นี้ หมายถึง กายกับใจมารวมด้วยกัน คนเราทุกวันนี้รักตัวเอง มาก จนถึงกับเห็นแก่ตัว พยายามทุกอย่างเพื่อสนองความสุขความสบายของ ตัวเอง ถึงแม้จะทำสิ่งที่ผิดต่อศีลธรรมและกฎหมายก็ยอมทำ ทั้งหมดนี้ไม่ใช่ เป็นการรักตนเองที่ถูกต้องเลย บุคคลผู้รักตนเองที่แท้จริงนั้น ต้องทำความดี แก่ตนเอง และพยายามนําตนเองออกจากวังวน คือ วัฏสงสารให้ได้ จึงจะชื่อว่า รักตนเองอย่างถูกต้อง",
+    "level": "ตรี"
+},
+{
+    "id": 7,
+    "proverb": [
+       "นตฺถิ อตฺตสมํ เปม."
+    ],
+    "meaning": "ความรัก (อื่น) เสมอด้วยตนไม่มี",
+    "classification": "อัตตวรรค",
+    "reference": "สังยุตตนิกาย  สคาถวรรค",
+    "details": "ความรักตนเอง คือการพยายามทำทุกสิ่งทุกอย่างให้แก่ตน เพื่อจะทำ ตนให้สุขสบาย ไม่ต้องลําบาก ถึงแม้เราจะรักคนอื่นหรือวัตถุสิ่งอื่นสักเพียงใด แต่ก็ไม่เท่ากับการที่เรารักตนเอง เมื่อตนหิวเราก็หาอาหารมาปรนปรือ หรือ ต้องการอะไรก็หามาให้ เอาอกเอาใจทุกอย่าง แต่นี้เป็นเพียงการรักตนเองอย่าง ธรรมดาเท่านั้น ถ้ารักมากและรักอย่างถูกต้อง ต้องพยายามหาหนทางที่จะนํา ตัวเองออกจากกิเลสตัณหาให้ได้ ถึงจะเป็นการรักตนเองอย่างแท้จริง",
+    "level": "ตรี"
+},
+{
+    "id": 8,
+    "proverb": [
+       "อตฺตนา ว กตํ ปาปํ",
+       "อตฺตนา สงฺกิลิสสติ"
+    ],
+    "meaning": "ตนทำบาปเอง ย่อมเศร้าหมองเอง",
+    "classification": "อัตตวรรค",
+    "reference": "ขุททกนิกาย ธรรมบท",
+    "details": "การทำบาป หมายถึง การทำความชั่วร้าย ความเลว ความไม่ดีทุกชนิด ที่เรียกว่า ทุจริต มี ๓ อย่าง คือ กายทุจริต ทำความชั่วด้วยกาย วจีทุจริต ทำความชั่วด้วยวาจา มโนทุจริต ทำความชั่วด้วยใจ มนุษย์ทั้งหลายรู้ทั้งรู้ว่า บาปมันไม่ดี ก็ยังขืนทำอยู่อีก เพราะยังฝึกตนเองไม่ได้ บาปนั้น ถ้าเราทำมันเอง มันก็เปื้อนตัวเราเองฉันนั้นเช่นกัน",
+    "level": "ตรี"
+},
+{
+    "id": 9,
+    "proverb": [
+       "อตฺตนา อกตํ ปาปํ ",
+       "อตฺตนา ว วิสุชฺฌติ"
+    ],
+    "meaning": "ตนไม่ทำบาปเอง ย่อมหมดจดเอง",
+    "classification": "อัตตวรรค",
+    "reference": "ขุททกนิกาย มหาวรรค",
+    "details": "บาป หมายถึง ความชั่วทุกชนิด ที่บุคคลไปทำเข้าแล้วนําความเดือดร้อน มาให้ บาปจะให้ผลเฉพาะแก่ผู้กระทำเท่านั้น ชนทั้งหลายทั้งที่รู้ว่า บาปมันไม่ดี แต่ก็ยังทำ มีสาเหตุมาจากยังไม่สามารถฝึกหัดหรือดัดตนได้ จึงตกไปอยู่ใต้ อำนาจอกุศลมูล ๓ อย่าง คือ ความโลภ ความโกรธ ความหลง ชักนําให้ทำแต่ ความชั่ว เมื่อตนสามารถดัดตนได้แล้ว ก็จะสามารถบังคับตนไม่ให้ตกไป ในอำนาจของอกุศลมูลอีก จึงทำให้เป็นผู้หมดจดบริสุทธิ์ เพราะไม่ได้ก่อกรรม ทำบาปอีกต่อไปแล้ว",
+    "level": "ตรี"
+},
+{
+    "id": 10,
+    "proverb": [
+       "อตฺตตฺถปญฺญา อสุจี มนุสฺสา."
+    ],
+    "meaning": "มนุษย์ผู้เห็นแก่ประโยชน์ตน เป็นคนไม่สะอาด",
+    "classification": "อัตตวรรค",
+    "reference": "ขุททกนิกาย สุตฺตนิบาต",
+    "details": "ประโยชน์ในที่นี้ หมายถึง ผลตอบแทนจากการกระทำการนั้นๆ มี ๒ ชนิด คือ ประโยชน์ส่วนตน และประโยชน์ส่วนรวม มนุษย์ทั้งหลายถ้าจะอยู่ ร่วมกันเป็นสุข ต้องทำประโยชน์ทั้งของส่วนตัวทั้งของส่วนรวม คนที่เห็นแก่ ประโยชน์ส่วนตัวอย่างเดียวนั้น เขาจะทำเฉพาะสิ่งที่เป็นประโยชน์แก่ตัวเท่านั้น ไม่คำนึงถึงความเดือดร้อนของผู้อื่น เรียกว่าคนเห็นแก่ตัว เป็นคนสกปรก ไม่สะอาด จึงเป็นคนที่ถูกตําหนิติเตียน",
+    "level": "ตรี"
+},
+{
+    "id": 11,
+    "proverb": [
+       "อตฺตานํ ทมยนฺติ ปณฺฑิตา."
+    ],
+    "meaning": "บัณฑิต ย่อมฝึกตน",
+    "classification": "อัตตวรรค",
+    "reference": "ขุททกนิกาย ธรรมบท",
+    "details": "คำว่า “ฝึก” หมายถึง การทำให้เรียบ ให้ละพยศ ทำให้ตรง เหมือน นายช่างไม้ดัดไม้ ฉะนั้น ในทางโลก การฝึก หมายถึง การฝึกตนให้ตรงต่อเวลา ตรงต่อหน้าที่ ให้ตั้งอยู่ในศีลธรรม และทำใจให้เข้มแข็งพอที่จะสู้กับอำนาจ ฝ่ายต่ำได้ เป็นต้น ในทางธรรม หมายถึง การฝึกกาย วาจา ใจ ให้ตรงตาม ทางที่ถูกต้อง ธรรมดาจิตมักกวัดแกว่ง ดิ้นรน วอกแวก และระวังได้ยาก จึงต้อง หมั่นสำรวมกาย วาจา ใจ ให้มากไว้ เมื่อหมั่นสำรวมระมัดระวังอยู่ตลอดเวลา ย่อมพ้นจากทุกข์ได้ และบัณฑิตท่านก็ทำเช่นนั้น",
+    "level": "ตรี"
+ },
+ {
+    "id": 12,
+    "proverb": [
+       "อตฺตานํ ทมยนฺติ สุพฺพตา."
+    ],
+    "meaning": "ผู้ประพฤติดี ย่อมฝึกตน",
+    "classification": "อัตตวรรค",
+    "reference": "ขุททกนิกาย ธรรมบท",
+    "details": "คำว่า “ประพฤติดี” ในทางโลก หมายถึง การทำคุณงามความดี ทำประโยชน์แก่ตนเองและผู้อื่น ประกอบการงานที่ไม่ผิดต่อกฎหมาย เป็น พลเมืองดีของประเทศชาติ เป็นต้น ในทางธรรม หมายถึง การตั้งอยู่ในศีลธรรม หมั่นสำรวมกาย วาจา ใจ ให้หมดจดจากกิเลส เป็นต้น บุคคลผู้ประพฤติดี เหล่านี้ ต้องผ่านการฝึกฝนตนเองแล้วทั้งนั้น จากที่ไม่เคยประพฤติดีมาเลย ก็ค่อยฝึกทีละนิดๆ ให้ยิ่งขึ้นกว่าที่เป็นอยู่จนถึงขั้นสูงสุด คือพระนิพพาน ไม่ให้ ตนตกไปในบ่วงแห่งมารได้ จึงชื่อว่าเป็นผู้ประพฤติดี",
+    "level": "ตรี"
+ },
+ {
+    "id": 13,
+    "proverb": [
+       "อตฺตนา หิ สุทนฺเตน ",
+       "นาถ ลภติ ทลลภํ"
+    ],
+    "meaning": "ผู้มีตนฝึกดีแล้ว ย่อมได้ที่พึ่งซึ่งหาได้ยาก",
+    "classification": "อัตตวรรค",
+    "reference": "ขุททกนิกาย ธรรมบท",
+    "details": "ผู้ฝึกตนดีแล้ว คือ ผู้ที่ทำตนให้เรียบ ให้ละพยศ ให้ตรงได้แล้ว และ กําจัดกิเลส คือ ความโลภ ความโกรธ ความหลงได้แล้ว รู้เท่าทันตามสภาวะ แห่งความเป็นจริง คลายอุปาทานความยึดมั่นว่าเราเขาเสียได้ แล้วจะได้ที่พึ่ง ซึ่งหาได้ยาก คือ มรรค ผล นิพพาน ทำให้มีสุคติเป็นที่ไปในเบื้องหน้า นอกจาก จะได้ที่พึ่งอันเป็นที่พึ่งที่หาได้ยากแล้ว ยังได้ชื่อว่า เป็นผู้ประเสริฐในหมู่มนุษย์อีกด้วย",
+    "level": "ตรี"
+ },
+ {
+    "id": 14,
+    "proverb": [
+       "โย รกฺขติ อตฺตานํ ",
+       "รกฺขิโต ตสฺส พาหิโร."
+    ],
+    "meaning": "ผู้ใดรักษาตนได้แล้ว ภายนอกของผู้นั้นก็เป็นอันรักษาด้วย",
+    "classification": "อัตตวรรค",
+    "reference": "อังคุตตรนิกาย ฉักกนิบาต",
+    "details": "ผคำว่า “ตน” ในที่นี้ หมายถึง จิตหรือใจ ดังนั้น การรักษาตนในที่นี้ จึงหมายถึง การรักษาจิตใจให้เบาบางจากเรื่องที่เป็นอกุศล คือสามารถ ระมัดระวังรักษาควบคุมจิตซึ่งอยู่ภายในให้ดำเนินถูกทางได้แล้ว ภายนอกคือ กายกับวาจาก็เป็นอันถูกควบคุมรักษาได้ ให้แสดงแต่พฤติกรรมที่เป็นกุศล ตามที่จิตดำเนินอยู่ เพราะว่าตัวตนเรานี้มีใจเป็นประธาน มีใจเป็นใหญ่",
+    "level": "ตรี"
+ },
+ {
+    "id": 15,
+    "proverb": [
+       "อตฺตานญฺเจ ปิยํ ชญฺญา ",
+       "รักเขยฺย นํ สุรกฺขิตํ."
+    ],
+    "meaning": "ถ้ารู้ว่าตนเป็นที่รัก ก็ควรรักษาตนนั้นให้ดี",
+    "classification": "อัตตวรรค",
+    "reference": "อขุททกนิกาย ธรรมบท",
+    "details": "การรักษาตนในที่นี้ ได้แก่ การประกอบตนมิให้ตกไปในอบายมุข หรือ อุปกิเลส พยายามถนอมรักษาตนเหมือนมารดาถนอมบุตร ฉะนั้น ถ้าสามารถ ถนอมตนให้ดีตลอดทั้ง ๓ วัย คือ ปฐมวัย มัชฌิมวัย-ปัจฉิมวัย ก็ชื่อว่ารักษาตน ด้วยดีตลอดไป อย่าหลงประมาทและหลงมัวเมาในวัยใดวัยหนึ่ง ประการสำคัญ ต้องหมั่นฝึกอบรมตนให้ตั้งอยู่ในคุณความดี อันเป็นคุณธรรมอันประเสริฐในหมู่ มนุษย์ด้วยกัน และรักษาความดีของตนได้อย่างเสมอต้นเสมอปลาย",
+    "level": "ตรี"
+ },
 {"id":17,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"pede justo lacinia eget tincidunt eget tempus vel","classification":"สัจจวรรค","reference":"สํ.นิ.","details":"eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio","level":"ตรี"},
 {"id":18,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"quis justo maecenas rhoncus aliquam","classification":"กัมมวรรค","reference":"ขุ.พุทธ.","details":"aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet","level":"เอก"},
 {"id":19,"proverb":["อตฺตา หิ อตฺตโน นาโถ"],"meaning":"orci luctus et ultrices posuere cubilia","classification":"ปาปวรรค","reference":"ที.สี.","details":"eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt","level":"ตรี"},
